@@ -17,17 +17,12 @@ This project uses the StatsBomb open data and Python's data science stack to fet
 ✅ Supports team-specific annotations and stylized visual design
 
 ### 🛠️ Tech Stack
-Python
-
-pandas
-
-matplotlib
-
-seaborn
-
-pathlib, json
-
-matplotlib.patheffects (for text styling)
+- Python
+- pandas
+- matplotlib
+- seaborn
+- pathlib, json
+- matplotlib.patheffects (for text styling)
 
 ### 📁 Data Source
 All data used in this project comes from StatsBomb's public open data, available here:
