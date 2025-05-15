@@ -44,10 +44,10 @@ Feel free to reach out for feedback, collaboration, or ideas!
 ---
 
 ### 📸 First Half Pass Heatmap
-![First Half](plots/First_Half_Heatmap_Bayer Leverkusen_vs_Hoffenheim.PNG)
+![First Half](plots/first_half_heatmap_bayer_leverkusen_vs_hoffenheim.png)
 
 ### 📸 Second Half Pass Heatmap
-![Second Half](plots/Second_Half_Heatmap_Bayer Leverkusen_vs_Hoffenheim.PNG)
+![Second Half](plots/second_half_heatmap_bayer_leverkusen_vs_hoffenheim.png)
 
 
 ---
