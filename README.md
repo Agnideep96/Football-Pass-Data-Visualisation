@@ -41,7 +41,7 @@ Feel free to reach out for feedback, collaboration, or ideas!
 
 ---
 ## 🔥 Sample Match: Bayer Leverkusen vs Hoffenheim — Bundesliga (2024-05-08)
-Score: 2 - 1 | Venue: Bay Arena | Date: May 8, 2024
+Score: 2 - 1 | Venue: Bay Arena | Date: March 30, 2024
 
 ### 📸 First Half Pass Heatmap
 ![First Half](plots/First_half.PNG)
