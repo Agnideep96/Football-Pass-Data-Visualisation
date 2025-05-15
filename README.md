@@ -31,8 +31,14 @@ matplotlib.patheffects (for text styling)
 
 📁 Data Source
 All data used in this project comes from StatsBomb's public open data, available here:
+
 🔗 https://github.com/statsbomb/open-data
 
-🤝 Contributing
-Pull requests are welcome! Feel free to fork the project and submit improvements.
 
+### 🧑‍💻 Author
+
+Developed by **Agnideep Mukherjee**
+
+Feel free to reach out for feedback, collaboration, or ideas!
+
+---
