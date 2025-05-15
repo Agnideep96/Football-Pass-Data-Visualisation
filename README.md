@@ -1,0 +1,31 @@
+📊 Football Pass Heatmap Comparison (First Half vs Second Half)
+This project uses the StatsBomb open data and Python's data science stack to fetch football event data, process pass locations, and visualize first-half and second-half pass origin heatmaps. The result is an insightful side-by-side comparison of team passing patterns across both halves of a match.
+
+⚽ Features
+✅ Fetches match data via the StatsBomb API (Open Data)
+
+✅ Cleans and structures pass event data
+
+✅ Extracts pass start and end coordinates
+
+✅ Splits the data into first half and second half
+
+✅ Visualizes pass origin density using KDE heatmaps
+
+✅ Includes a reusable function to plot heatmaps on a full pitch
+
+✅ Supports team-specific annotations and stylized visual design
+
+🛠️ Tech Stack
+Python
+
+pandas
+
+matplotlib
+
+seaborn
+
+pathlib, json
+
+matplotlib.patheffects (for text styling)
+
