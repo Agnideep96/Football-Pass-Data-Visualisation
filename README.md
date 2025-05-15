@@ -29,9 +29,10 @@ pathlib, json
 
 matplotlib.patheffects (for text styling)
 
-📁 Data Source
+###📁 Data Source
 All data used in this project comes from StatsBomb's public open data, available here:
-<img src="plots/SB_Logo.png" alt="Logo" width="150" height="50"/>
+
+<img src="plots/SB_Logo.png" alt="Logo" width="180" height="50"/>
 
 
 🔗 https://github.com/statsbomb/open-data
