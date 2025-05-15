@@ -31,7 +31,7 @@ matplotlib.patheffects (for text styling)
 
 📁 Data Source
 All data used in this project comes from StatsBomb's public open data, available here:
-!(plots/SB_Logo.PNG)
+![](plots/SB_Logo.PNG)
 
 
 🔗 https://github.com/statsbomb/open-data
