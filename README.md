@@ -42,3 +42,11 @@ Developed by **Agnideep Mukherjee**
 Feel free to reach out for feedback, collaboration, or ideas!
 
 ---
+
+### 📸 First Half Pass Heatmap
+![First Half](plots/First Half Heatmap_Bayer Leverkusen_vs_Hoffenheim.png)
+
+### 📸 Second Half Pass Heatmap
+![Second Half](plots/Second Half Heatmap_Bayer Leverkusen_vs_Hoffenheim.png)
+
+---
